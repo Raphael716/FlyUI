@@ -1,0 +1,10 @@
+name: flyuibyzeyroz
+version: 1.0.0
+main: zeyroz\fly\Main
+author: zeyroz
+api: [3.0.0]
+
+commands:
+  fly:
+    permission: "fly.use"
+    description: "Vous permet de fly en survival"
